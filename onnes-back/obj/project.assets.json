@@ -229,9 +229,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\onnes-back\\onnes-back\\onnes-back\\onnes-back.csproj",
-      "projectName": "onnes-back",
-      "projectPath": "F:\\onnes-back\\onnes-back\\onnes-back\\onnes-back.csproj",
+      "projectUniqueName": "F:\\onnes-back\\onnes-back\\onnes-back\\Onnes.csproj",
+      "projectName": "Onnes",
+      "projectPath": "F:\\onnes-back\\onnes-back\\onnes-back\\Onnes.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
       "outputPath": "F:\\onnes-back\\onnes-back\\onnes-back\\obj\\",
       "projectStyle": "PackageReference",
